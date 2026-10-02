@@ -29,7 +29,7 @@ docker run -v mssql_data:/var/opt/mssql \
 ```
 - install the req > pip install -r requirements.txt
 
-- python scripts\ingest_legacy_data.py
+- python scripts\ingest_legacy_data.py 
 
 ## Connecting to the data 
 
